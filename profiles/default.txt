@@ -1,0 +1,8 @@
+{
+    "Name": "Default",
+    "Settings": {
+        "AutoSwing": true,
+        "Reach": 3.5,
+        "Velocity": 0.8
+    }
+}
