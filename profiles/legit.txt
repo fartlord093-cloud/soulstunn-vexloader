@@ -1,0 +1,8 @@
+{
+    "Name": "Legit",
+    "Settings": {
+        "AutoSwing": false,
+        "Reach": 3.0,
+        "Velocity": 0.9
+    }
+}
