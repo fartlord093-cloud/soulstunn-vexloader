@@ -1,0 +1,9 @@
+{
+    "Name": "Blatant",
+    "Settings": {
+        "AutoSwing": true,
+        "Reach": 6.0,
+        "Velocity": 0.0,
+        "Killaura": true
+    }
+}
